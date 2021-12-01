@@ -4,7 +4,7 @@ import numpy as np
 import os
 
 '''
-123
+
 '''
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
